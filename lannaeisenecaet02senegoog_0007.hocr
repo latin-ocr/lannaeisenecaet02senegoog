@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannaeisenecaet02senegoog_0007.png"; bbox 0 0 2262 3082; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 362 2529 877 2586">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 362 2529 877 2586">
+     <span class='ocr_line' id='line_1_1' title="bbox 362 2529 877 2586; baseline -0.006 -11"><span class='ocrx_word' id='word_1_1' title='bbox 362 2529 508 2575; x_wconf 66' lang='lat' dir='ltr'>mnsam</span> <span class='ocrx_word' id='word_1_2' title='bbox 524 2534 548 2576; x_wconf 60' lang='lat' dir='ltr'>v.</span> <span class='ocrx_word' id='word_1_3' title='bbox 562 2535 589 2577; x_wconf 72' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_4' title='bbox 602 2532 744 2586; x_wconf 62' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_5' title='bbox 756 2531 877 2574; x_wconf 63' lang='lat' dir='ltr'>ursum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1136 3082">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1136 3082">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1136 3082; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1136 3082; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
